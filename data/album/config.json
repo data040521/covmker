@@ -1,5 +1,6 @@
 {
   "type": 1,
+  "native_ads_app_pos":2,
   "native_ads_pos": 0,
   "sticker": "res/template/album/sticker/info.json",
   "background": "res/template/album/background/info.json",
@@ -13,24 +14,8 @@
   "link": "data/album/info.json",
   "slider": [
     {
-      "link": "data/album/post18",
-      "thumb": "res/template/album/thumbs/thumb-18.jpg"
-    },
-    {
-      "link": "data/album/post21",
-      "thumb": "res/template/album/thumbs/thumb-21.jpg"
-    },
-    {
-      "link": "data/album/post23",
-      "thumb": "res/template/album/thumbs/thumb-23.jpg"
-    },
-    {
-      "link": "data/album/post24",
-      "thumb": "res/template/album/thumbs/thumb-24.jpg"
-    },
-    {
-      "link": "data/album/post26",
-      "thumb": "res/template/album/thumbs/thumb-26.jpg"
+      "link": "data/album/post1",
+      "thumb": "res/template/album/thumbs/thumb-1.jpg"
     }
   ]
 }

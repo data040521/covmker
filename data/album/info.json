@@ -7,7 +7,12 @@
         {
           "link": "data/album/post1",
           "thumb": "res/template/album/thumbs/thumb-01.jpg"
+        },
+{
+          "link": "data/album/post2",
+          "thumb": "res/template/album/thumbs/thumb-02.jpg"
         }
+
       ]
     }
   ]

@@ -8,7 +8,7 @@
   "am_in": "AV+OldoRZ3Ib9CptxOVamMrPdUGcX58wl+pCgRPC+uar6Q0xWFvyRwZ9RWfyro6B",
   "am_na": "AV+OldoRZ3Ib9CptxOVamF08hQkm7klbbsgwYj7gwMiBrdIyMWQGVUChhYdWS8JF",
   "am_vi":"AV+OldoRZ3Ib9CptxOVamNvo8H0p2mxgYmwEcKGwMdu6se1goyqkd0ACFma0oW1e",
-  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/ads.json",
   "link": "data/album/info.json",

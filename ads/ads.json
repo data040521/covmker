@@ -1,8 +1,8 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon1.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster1.png",
+      "icon": "https://raw.githubusercontent.com/data040521/covmker/master/ads/icon1.png",
+      "cover": "https://raw.githubusercontent.com/data040521/covmker/master/ads/poster1.png",
       "appName": "Sweet Face Camera",
       "description": "Use face camera offers snap for absolutely funny and stunning face modifications",
       "package": "beauty.picshop.sweet.face.camera",
@@ -11,11 +11,11 @@
       "type": "app"
     },
     {
-      "icon": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/icon.png",
-      "cover": "https://raw.githubusercontent.com/dataphoto/covmker/master/ads/poster3.jpg",
-      "appName": "Text on Photo",
-      "description": "Text to photo is a free application that helps users easily add text to photos",
-      "package": "beauty.shop.text.photo",
+      "icon": "https://raw.githubusercontent.com/data040521/covmker/master/ads/icon.png",
+      "cover": "https://raw.githubusercontent.com/data040521/covmker/master/ads/graphic.png",
+      "appName": "Crown Heart Emoji Camera",
+      "description": "Transform yourself into a charming queen in pictures or al look like a cute girl within few seconds",
+      "package": "beauty.picshop.crown.heart.emoji.camera",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"

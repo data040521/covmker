@@ -15,6 +15,10 @@
 	{
 	"link": "data/album/post3”,
 	"thumb": "res/template/album/thumbs/thumb-03.jpg"
+	},
+	{
+ 	"link": "data/album/post4”,
+	"thumb": "res/template/album/thumbs/thumb-04.jpg"
 	}
       ]
     }

@@ -1,4 +1,4 @@
-{/Users/Suin/Desktop/cover maker/covmker/data/album/info.json
+{
   "data": [
     {
       "name": "",
@@ -13,7 +13,7 @@
           "thumb": "res/template/album/thumbs/thumb-02.jpg"
         },
 	{
-	"link": "data/album/post3”,
+	"link": "data/album/post",
 	"thumb": "res/template/album/thumbs/thumb-03.jpg"
 	},
 	{

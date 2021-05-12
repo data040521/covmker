@@ -20,10 +20,13 @@
 	"link": "data/album/post4",
 	"thumb": "res/template/album/thumbs/thumb-04.jpg"
 	},
-{
+  {
 	"link": "data/album/post5",
 	"thumb": "res/template/album/thumbs/thumb-05.jpg"
-      }
-    }
+  }
+  
   ]
 }
+]
+}
+  

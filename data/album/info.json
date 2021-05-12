@@ -27,8 +27,60 @@
 	{
 	"link": "data/album/post6",
 	"thumb": "res/template/album/thumbs/thumb-06.jpg"
+  	},
+  {
+	"link": "data/album/post7",
+	"thumb": "res/template/album/thumbs/thumb-07.jpg"
+  	},
+{
+	"link": "data/album/post8",
+	"thumb": "res/template/album/thumbs/thumb-09.jpg"
+  	},
+{
+	"link": "data/album/post9",
+	"thumb": "res/template/album/thumbs/thumb-09.jpg"
+  	},
+{
+	"link": "data/album/post10",
+	"thumb": "res/template/album/thumbs/thumb-10.jpg"
+  	},
+{
+	"link": "data/album/post11",
+	"thumb": "res/template/album/thumbs/thumb-11.jpg"
+  	},
+{
+	"link": "data/album/post12",
+	"thumb": "res/template/album/thumbs/thumb-12.jpg"
+  	},
+{
+	"link": "data/album/post13",
+	"thumb": "res/template/album/thumbs/thumb-13.jpg"
+  	},
+{
+	"link": "data/album/post14",
+	"thumb": "res/template/album/thumbs/thumb-14.jpg"
+  	},
+{
+	"link": "data/album/post15",
+	"thumb": "res/template/album/thumbs/thumb-15.jpg"
+  	},
+{
+	"link": "data/album/post16",
+	"thumb": "res/template/album/thumbs/thumb-16.jpg"
+  	},
+{
+	"link": "data/album/post17",
+	"thumb": "res/template/album/thumbs/thumb-17.jpg"
+  	},{
+	"link": "data/album/post18",
+	"thumb": "res/template/album/thumbs/thumb-18.jpg"
+  	},{
+	"link": "data/album/post19",
+	"thumb": "res/template/album/thumbs/thumb-19.jpg"
+  	},{
+	"link": "data/album/post20",
+	"thumb": "res/template/alb9um/thumbs/thumb-20.jpg"
   	}
-  
   ]
 }
 ]

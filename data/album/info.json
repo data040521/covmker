@@ -23,7 +23,11 @@
   {
 	"link": "data/album/post5",
 	"thumb": "res/template/album/thumbs/thumb-05.jpg"
-  }
+  },
+	{
+	"link": "data/album/post6",
+	"thumb": "res/template/album/thumbs/thumb-06.jpg"
+  	}
   
   ]
 }

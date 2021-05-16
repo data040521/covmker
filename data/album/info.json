@@ -71,15 +71,18 @@
 {
 	"link": "data/album/post17",
 	"thumb": "res/template/album/thumbs/thumb-17.jpg"
-  	},{
+  	},
+{
 	"link": "data/album/post18",
 	"thumb": "res/template/album/thumbs/thumb-18.jpg"
-  	},{
+  	},
+{
 	"link": "data/album/post19",
 	"thumb": "res/template/album/thumbs/thumb-19.jpg"
-  	},{
+  	},
+{
 	"link": "data/album/post20",
-	"thumb": "res/template/alb9um/thumbs/thumb-20.jpg"
+	"thumb": "res/template/album/thumbs/thumb-20.jpg"
   	}
   ]
 }

@@ -83,6 +83,46 @@
 {
 	"link": "data/album/post20",
 	"thumb": "res/template/album/thumbs/thumb-20.jpg"
+  	},
+{
+	"link": "data/album/post21",
+	"thumb": "res/template/album/thumbs/thumb-21.jpg"
+  	},
+{
+	"link": "data/album/post22",
+	"thumb": "res/template/album/thumbs/thumb-22.jpg"
+  	},
+{
+	"link": "data/album/post23",
+	"thumb": "res/template/album/thumbs/thumb-23.jpg"
+  	},
+{
+	"link": "data/album/post24",
+	"thumb": "res/template/album/thumbs/thumb-24.jpg"
+  	},
+{
+	"link": "data/album/post25",
+	"thumb": "res/template/album/thumbs/thumb-25.jpg"
+  	},
+{
+	"link": "data/album/post26",
+	"thumb": "res/template/album/thumbs/thumb-26.jpg"
+  	},
+{
+	"link": "data/album/post27",
+	"thumb": "res/template/album/thumbs/thumb-27.jpg"
+  	},
+{
+	"link": "data/album/post28",
+	"thumb": "res/template/album/thumbs/thumb-28.jpg"
+  	},
+{
+	"link": "data/album/post29",
+	"thumb": "res/template/album/thumbs/thumb-29.jpg"
+  	},
+{
+	"link": "data/album/post30",
+	"thumb": "res/template/album/thumbs/thumb-30.jpg"
   	}
   ]
 }

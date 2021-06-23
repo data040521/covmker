@@ -18,6 +18,14 @@
     {
       "link": "data/album/post1",
       "thumb": "res/template/album/thumbs/thumb-01.jpg"
+    },
+    {
+    "link": "data/album/post30",
+    "thumb": "res/template/album/thumbs/thumb-30.jpg"
+    },
+    {
+    "link": "data/album/post20",
+    "thumb": "res/template/album/thumbs/thumb-20.jpg"
     }
   ]
 }

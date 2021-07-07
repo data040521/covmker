@@ -1,6 +1,7 @@
 {
   "type": 1,
   "native_ads_pos": 0,
+  "native_ads_app_pos": 2,
   "sticker": "res/template/text on photo/sticker/info.json",
   "background": "res/template/text on photo/background/info.json",
   "am_ba": "",
@@ -10,7 +11,6 @@
   "am_vi": "",
 "watch_video":600,
   "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
-  "watch_video":600,
   "ads_app":"ads/newAds.json",
   "slider": [
     {

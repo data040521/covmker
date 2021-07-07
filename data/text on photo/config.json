@@ -1,0 +1,37 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "sticker": "res/template/text on photo/sticker/info.json",
+  "background": "res/template/text on photo/background/info.json",
+  "am_ba": "oOQWOrUmH2lFtj8FI5Ev77cAJ8asUW7cw8cIT9P4fW1LjaQ8h7P2RvZyNEISM4Y7",
+  "am_in": "oOQWOrUmH2lFtj8FI5Ev7xJcQbjE3QsopFNcTXePRQORx0f1XOcbXEpQ5A2PTaOT",
+  "am_na": "oOQWOrUmH2lFtj8FI5Ev77T7rLFGp9Srkoc35iGyNGYhEsXwkNLthmrtAGrVc6Rr",
+  "link": "data/text on photo/info.json",
+  "am_vi": "oOQWOrUmH2lFtj8FI5Ev78EfwWMcTK/6YkENF/jshEAe+T7KggddOylIsTjM4JwQ",
+"watch_video":600,
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
+  "slider": [
+    {
+      "link": "data/text on photo/post17",
+      "thumb": "res/template/text on photo/thumbs/thumb_17.jpg"
+    },
+    {
+      "link": "data/text on photo/post18",
+      "thumb": "res/template/text on photo/thumbs/thumb_18.jpg"
+    },
+    {
+      "link": "data/text on photo/post21",
+      "thumb": "res/template/text on photo/thumbs/thumb_21.jpg"
+    },
+    {
+      "link": "data/text on photo/post22",
+      "thumb": "res/template/text on photo/thumbs/thumb_22.jpg"
+    },
+    {
+      "link": "data/text on photo/post23",
+      "thumb": "res/template/text on photo/thumbs/thumb_23.jpg"
+    }
+  ]
+}

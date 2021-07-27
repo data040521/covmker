@@ -1,0 +1,40 @@
+{
+  "type": 2,
+  "native_ads_pos": 2,
+  "native_ads_pos": 0,
+  "hideAdOpenApp": false,
+  "sticker": "res/template/album/sticker/info.json",
+  "background": "res/template/album/background/info.json",
+  "am_ba": "",
+  "am_in": "",
+  "am_home_in": "",
+  "am_na": "",
+  "am_vi":"",
+  "am_oa":"",
+
+  "fb_ba": "Uke4Os1Ux2F2eergO11qPhZHzhtiIIEivUiPUp4TIRw=",
+  "fb_in": "Uke4Os1Ux2F2eergO11qPqZmb34tMdyoBDM38IElMIA=",
+  "fb_re": "Uke4Os1Ux2F2eergO11qPjUjXN7qDaQ9rw1gP0cv6nA=",
+  "fb_na": "Uke4Os1Ux2F2eergO11qPu/Ogs/yMijXV88vo3q/KiQ=",
+
+  "ads_list": ["mp"],
+  "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/ads.json",
+  "link": "data/ultimatethumbnail/info.json",
+
+  "slider": [
+    {
+      "link": "data/party/post17",
+      "thumb": "res/template/party/thumbs/thumb_17.jpg"
+    },
+    {
+      "link": "data/film/post13",
+      "thumb": "res/template/film/thumbs/thumb_13.jpg"
+    },
+    {
+      "link": "data/wedding/post7",
+      "thumb": "res/template/wedding/thumbs/thumb_07.jpg"
+    }
+  ]
+}

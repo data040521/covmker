@@ -1,0 +1,36 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "sticker": "res/template/party/sticker/info.json",
+  "background": "res/template/party/background/info.json",
+  "am_ba": "oOQWOrUmH2lFtj8FI5Ev785BMNz+6tAjC7rpVXxLs2VmJcHvJRUePTYX7OYstaLL",
+  "am_in": "oOQWOrUmH2lFtj8FI5Ev7zHDzC3HiF1w5VvSr3JICOhf5KdT26vM/LSPH+zO0a0U",
+  "am_na": "oOQWOrUmH2lFtj8FI5Ev73vNi+rA/kMQPLkw0AulDhWsqfTVDlHqjJRnOmbuRZo2",
+  "link": "data/party/info.json",
+  "am_vi": "oOQWOrUmH2lFtj8FI5Ev7y9kl6JH0bfzfX5qRXrRcEF9+giqC2vvrlo2/NB2W37O",
+"watch_video":600,
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "ads_app":"ads/newAds.json",
+  "slider": [
+    {
+      "link": "data/party/post11",
+      "thumb": "res/template/party/thumbs/thumb_11.jpg"
+    },
+    {
+      "link": "data/party/post16",
+      "thumb": "res/template/party/thumbs/thumb_16.jpg"
+    },
+    {
+      "link": "data/party/post3",
+      "thumb": "res/template/party/thumbs/thumb_03.jpg"
+    },
+    {
+      "link": "data/party/post4",
+      "thumb": "res/template/party/thumbs/thumb_04.jpg"
+    },
+    {
+      "link": "data/party/post6",
+      "thumb": "res/template/party/thumbs/thumb_06.jpg"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": 1,
+  "banner": 5,
+  "native_ads_pos": 0,
+  "sticker": "res/template/party/sticker/info.json",
+  "background": "res/template/party/background/info.json",
+  "am_ba": "FpvGYG949T6Rxn8SfevUq0FeTfMFlOIssjeYXXEvmsiuanYhy6TusYZHkKsLCs8h",
+  "am_in": "FpvGYG949T6Rxn8SfevUq5swuxX+L9CaqKoz6tqcMoIJwCct1qrjfHpRtfvf9VQm",
+  "am_na": "FpvGYG949T6Rxn8SfevUq65lRCDBTXIBBQdjZBMg81j9BOob/4uBupHnVqu4q53Q",
+  "link": "data/party/info.json",
+  "am_vi": "FpvGYG949T6Rxn8SfevUq5voKzlykrDTFQA1p8dPHn5OgrtGHWaxkSEEn4bqeHbP",
+"watch_video":600,
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "ads_app":"ads/ads.json",
+  "slider": [
+    {
+      "link": "data/party/post11",
+      "thumb": "res/template/party/thumbs/thumb_11.jpg"
+    },
+    {
+      "link": "data/party/post16",
+      "thumb": "res/template/party/thumbs/thumb_16.jpg"
+    },
+    {
+      "link": "data/party/post3",
+      "thumb": "res/template/party/thumbs/thumb_03.jpg"
+    },
+    {
+      "link": "data/party/post4",
+      "thumb": "res/template/party/thumbs/thumb_04.jpg"
+    },
+    {
+      "link": "data/party/post6",
+      "thumb": "res/template/party/thumbs/thumb_06.jpg"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": 1,
+  "native_ads_pos": 0,
+  "sticker": "res/template/wedding/sticker/info.json",
+  "background": "res/template/wedding/background/info.json",
+  "am_ba": "oOQWOrUmH2lFtj8FI5Ev76h0KzOcd880RbvErgGHZTI1Ag7y2HYalxtDKJZ2rkbn",
+  "am_in": "oOQWOrUmH2lFtj8FI5Ev75O+ojLRxwVoQzDOyQBY/auuxaYFoucTylT3zTBUWNUp",
+  "am_na": "oOQWOrUmH2lFtj8FI5Ev7xHDhzthN34YXVgiZ51bEhjqjpnXTgDooh/IO61okQJ0",
+  "link": "data/wedding/info.json",
+  "am_vi": "oOQWOrUmH2lFtj8FI5Ev74bjinUQW1fkYohg47QxBeUBZYFkx5KdZqry3geOrOH8",
+  "policy":"https://raw.githubusercontent.com/datapoli/privapoli/master/covmker/Privacy.html",
+  "watch_video":600,
+  "ads_app":"ads/newAds.json",
+  "slider": [
+    {
+      "link": "data/wedding/post21",
+      "thumb": "res/template/wedding/thumbs/thumb_21.jpg"
+    },
+    {
+      "link": "data/wedding/post23",
+      "thumb": "res/template/wedding/thumbs/thumb_23.jpg"
+    },
+    {
+      "link": "data/wedding/post25",
+      "thumb": "res/template/wedding/thumbs/Thumb_25.jpg"
+    },
+    {
+      "link": "data/wedding/post27",
+      "thumb": "res/template/wedding/thumbs/Thumb_27.jpg"
+    },
+    {
+      "link": "data/wedding/post29",
+      "thumb": "res/template/wedding/thumbs/Thumb_29.jpg"
+    }
+  ]
+}

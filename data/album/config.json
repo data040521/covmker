@@ -13,12 +13,13 @@
   "am_vi":"EtEIoIBZBsrm+NkKONXkCnwgp/LMmZXsRdy01PiZLf1YULHpCt5h04eCyLmR6KTI",
   "am_oa":"EtEIoIBZBsrm+NkKONXkChVtWz6CQd3inAQ4xMxx93sHx//2WxndsurWT9nlS2l+",
 
-  "fb_ba": "",
-  "fb_in": "",
-  "fb_re": "",
-  "fb_na": "",
+  "fb_ba": "Uke4Os1Ux2F2eergO11qPhZHzhtiIIEivUiPUp4TIRw=",
+  "fb_in": "Uke4Os1Ux2F2eergO11qPqZmb34tMdyoBDM38IElMIA=",
+  "fb_home_in": "Uke4Os1Ux2F2eergO11qPqZmb34tMdyoBDM38IElMIA=",
+  "fb_re": "Uke4Os1Ux2F2eergO11qPjUjXN7qDaQ9rw1gP0cv6nA=",
+  "fb_na": "Uke4Os1Ux2F2eergO11qPu/Ogs/yMijXV88vo3q/KiQ=",
 
-  "ads_list": ["am", "mp"],
+  "ads_list": ["fb", "am", "mp"],
 
   "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,

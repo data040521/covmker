@@ -18,7 +18,7 @@
   "fb_re": "Uke4Os1Ux2F2eergO11qPjUjXN7qDaQ9rw1gP0cv6nA=",
   "fb_na": "Uke4Os1Ux2F2eergO11qPu/Ogs/yMijXV88vo3q/KiQ=",
 
-  "ads_list": ["fb", "am", "mp"],
+  "ads_list": ["mp", "am", "fb"],
   "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/ads.json",

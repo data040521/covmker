@@ -21,7 +21,7 @@
 
   "is_id": "+EhjRYgnnFDsNDXUD82ZGQ==",
 
-  "ads_list": ["mp", "am", "fb", "is"],
+  "ads_list": ["am", "fb", "is", "mp"],
 
   "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,

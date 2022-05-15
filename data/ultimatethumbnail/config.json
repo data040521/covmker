@@ -12,7 +12,11 @@
   "am_vi":"EtEIoIBZBsrm+NkKONXkCnwgp/LMmZXsRdy01PiZLf1YULHpCt5h04eCyLmR6KTI",
   "am_oa":"EtEIoIBZBsrm+NkKONXkChVtWz6CQd3inAQ4xMxx93sHx//2WxndsurWT9nlS2l+",
 
-  "ads_list": ["am"],
+  "al_ba":"zTZYTToDgirApjVRYLmip0pTBKm/YEmsID2J6QdBJTQ=",
+  "al_in":"XlhTbbv9hovH9dYjoBctFvjrErwe/M4BhnztFynL5hc=",
+  "al_re":"6Cvy00SYWVy1f7oRASiF7RsXCim1VHQ9nwU+V7bqN3A=",
+
+  "ads_list": ["am", "al"],
   "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/ads.json",

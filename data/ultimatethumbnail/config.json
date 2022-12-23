@@ -12,11 +12,15 @@
   "am_vi":"iR1sjGIGRv+9fEH9SS1bgK7WHck6b28ME3lERN0r40v5YewY8LAgcB5qeM/+UB5d",
   "am_oa":"iR1sjGIGRv+9fEH9SS1bgDafDKREXkgHdOmyVPE8Sb1q6mUmkvGgyJ5HQQE9MX/9",
 
-  "al_ba":"",
-  "al_in":"",
-  "al_re":"",
+  "al_ba":"zTZYTToDgirApjVRYLmip0pTBKm/YEmsID2J6QdBJTQ=",
+  "al_in":"XlhTbbv9hovH9dYjoBctFvjrErwe/M4BhnztFynL5hc=",
+  "al_re":"6Cvy00SYWVy1f7oRASiF7RsXCim1VHQ9nwU+V7bqN3A=",
 
-  "ads_list": ["am"],
+  "is_id" : "+EhjRYgnnFDsNDXUD82ZGQ==",
+
+  "interval": 60000,
+
+  "ads_list": ["is", "al", "am"],
   "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/ads.json",

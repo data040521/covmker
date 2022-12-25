@@ -20,7 +20,7 @@
 
   "interval": 60000,
 
-  "ads_list": ["is", "al", "am"],
+  "ads_list": ["al", "is", "am"],
   "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/ads.json",

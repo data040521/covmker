@@ -6,8 +6,8 @@
   "sticker": "res/template/album/sticker/info.json",
   "background": "res/template/album/background/info.json",
   "am_ba": "",
-  "am_in": "",
-  "am_home_in": "",
+  "am_in": "G6Op/izsI2Se6PY56L+B4PZaJLAll+zzQEci3mxFVJQrgdbvOpA9s39iGsEJ5gPo",
+  "am_home_in": "G6Op/izsI2Se6PY56L+B4PZaJLAll+zzQEci3mxFVJQrgdbvOpA9s39iGsEJ5gPo",
   "am_na": "",
   "am_vi":"",
   "am_oa":"",
@@ -18,9 +18,9 @@
 
   "is_id" : "",
 
-  "interval": 60000,
+  "interval": 30000,
 
-  "ads_list": ["al"],
+  "ads_list": ["am", "al"],
   "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,
   "ads_app":"ads/ads.json",

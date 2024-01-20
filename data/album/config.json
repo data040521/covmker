@@ -6,12 +6,12 @@
   "sticker": "res/template/album/sticker/info.json",
   "background": "res/template/album/background/info.json",
   
-  "am_ba": "TeqXMqsuiWN8NCGgoZeNtPKyGkGkxizN5UahZcWUEg7KD3X/Oq0Jc2vVwK+D5W2y",
-  "am_in": "TeqXMqsuiWN8NCGgoZeNtKc/QQZF+GKH6AkfJdRMYI5dxl1IiQpHg6mkR9O3zWxQ",
-  "am_home_in": "TeqXMqsuiWN8NCGgoZeNtKc/QQZF+GKH6AkfJdRMYI5dxl1IiQpHg6mkR9O3zWxQ",
-  "am_na": "TeqXMqsuiWN8NCGgoZeNtKQmxiw4qyv5e6A0NDERQyDf+r2vHLrUw6+RHuwZNKyA",
-  "am_vi":"TeqXMqsuiWN8NCGgoZeNtPbe7pbJ5anWf1m2LdapPu1eLCdOqHfYiHUk6JfIstsx",
-  "am_oa":"TeqXMqsuiWN8NCGgoZeNtHDIcP5EQxClVqL3YjzJEYeDLaeRkHZdRgZL367wFCYl",
+  "am_ba": "",
+  "am_in": "",
+  "am_home_in": "",
+  "am_na": "",
+  "am_vi":"",
+  "am_oa":"",
 
   "al_ba":"zTZYTToDgirApjVRYLmip0pTBKm/YEmsID2J6QdBJTQ=",
   "al_in":"XlhTbbv9hovH9dYjoBctFvjrErwe/M4BhnztFynL5hc=",
@@ -21,7 +21,7 @@
 
   "interval": 30000,
   
-  "ads_list": ["am", "al"],
+  "ads_list": ["al"],
 
   "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,

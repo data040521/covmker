@@ -21,7 +21,7 @@
 
   "interval": 30000,
   
-  "ads_list": ["al"],
+  "ads_list": ["am", "al"],
 
   "policy":"https://raw.githubusercontent.com/data040521/covmker/master/ads/Privacy.html",
   "watch_video":600,

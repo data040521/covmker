@@ -6,11 +6,13 @@
   "sticker": "res/template/album/sticker/info.json",
   "background": "res/template/album/background/info.json",
   "am_ba": "",
-  "am_in": "hPT3ZmQ71WarvKt+70onRO5AmXyZbM1pmPnb6/gZgRvgVdTU94ZR9T8yWLENgHDe",
-  "am_home_in": "hPT3ZmQ71WarvKt+70onRO5AmXyZbM1pmPnb6/gZgRvgVdTU94ZR9T8yWLENgHDe",
+  "am_in": "beUJmIwyahT1F/BVbCIVux1/Lul2crPVatHRRJN9KvIFVTkiGaprMZZdtmR7J74m",
+  "am_home_in": "beUJmIwyahT1F/BVbCIVux1/Lul2crPVatHRRJN9KvIFVTkiGaprMZZdtmR7J74m",
   "am_na": "",
   "am_vi":"",
   "am_oa":"",
+
+  "app_id": "ca-app-pub-3678658749858723~6033337485",
 
   "al_ba":"zTZYTToDgirApjVRYLmip0pTBKm/YEmsID2J6QdBJTQ=",
   "al_in":"XlhTbbv9hovH9dYjoBctFvjrErwe/M4BhnztFynL5hc=",
